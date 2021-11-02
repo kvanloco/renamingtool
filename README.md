@@ -1,2 +1,3 @@
 # renamingtool
-Created with CodeSandbox
+
+Assists you and your team with the creation of filenames. 
